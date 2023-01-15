@@ -1,6 +1,5 @@
-# servicesfordisabled
+# assistiveservicesfordisabled
+This dataset contains assistive services for people with disabilities. These services were semi-synthetically generated as part of the Ministry funded project 13/20, KSA.
+For full details about our dataset, please refer to our research articles published at:
 
-For full details about our datasets, please refer to our research article published at:
-
-A Two-Phase Machine Learning Framework for Context-Aware Service Selection to Empower People with Disabilities:
-[**](https://doi.org/10.3390/s22145142)
+[To Come Soon]
