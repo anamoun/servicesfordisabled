@@ -6,4 +6,5 @@ These datasets contain assistive services for people with disabilities. These se
 
 For full details about our datasets, please refer to our research articles published at:
 
-[To Come Soon]
+[Multimodal Technologies and Interaction
+: https://www.mdpi.com/journal/mti]
